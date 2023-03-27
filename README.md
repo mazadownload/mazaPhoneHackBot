@@ -5,20 +5,17 @@
 
 <div align="center">
 
-[![https://telegram.me/TechieGamer](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/TechieGamer)
-[![https://telegram.me/TechieGamer](https://img.shields.io/badge/Telegram-@TechieGamer-blue.svg?style=flat-square)](https://telegram.me/TechieGamer)
+[![https://telegram.im/@mazadownload](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.im/@mazadownload)
+[![https://telegram.im/@mazadownload](https://img.shields.io/badge/Telegram-@mazadownload-blue.svg?style=flat-square)](https://telegram.im/@mazadownload)
 
 </div>
 
-This tool is based upon [Psi](https://github.com/TechieGamer1/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TechieCamHackerBot](https://t.me/TechieGamer)
+This tool is based upon [Psi](https://github.com/mazadownload/Psi) .This is a telegram implementation with extra features than Psi.
+### Try it at [@MazaDownloadCamHackBot](https://telegram.im/@mazadownload)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/TechieGamer1/TrackDown)](https://repl.it/github/TechieGamer1/TrackDown)
  
-#### Video Tutorial 
-
-[![Video Tutorial](https://t.me/TechieGamer/260)](https://t.me/TechieGamer/260)
  
 
 ### How to build
