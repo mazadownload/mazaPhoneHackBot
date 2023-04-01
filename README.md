@@ -24,7 +24,7 @@ This tool is based upon [Psi](https://github.com/mazadownload/Psi) .This is a te
 1. Clone the repo using `git clone https://github.com/mazadownload/mazadownloadPhoneHackBot`
 1. `cd TrackDown`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [index.js](https://github.com/mazadownload/mazadownloadPhoneHackBot/blob/main/index.js))
+1. Replace your website URL at [index.js](https://github.com/mazadownload/mazaPhoneHackBot/blob/main/index.js))
 1. Run `npm install`
 1. Afterwards `npm start`
 1. Your Bot is now online.
